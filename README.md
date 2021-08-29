@@ -11,5 +11,5 @@ Pomodoro App to help you manage your time efficiently with Tkinter GUI!
 - Ticks appear at the bottom as one cycle is finished.
 
 ## Result
-![alt text](examples/test.PNG)
+![alt text](test.PNG)
 
